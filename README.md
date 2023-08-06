@@ -1,16 +1,11 @@
-# facebook_app
+# App Features
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Authentication:** Users can sign in, sign up, and sign out using Firebase. They can also choose their profile photo and name.
+- **CRUD Operations:** Users can perform CRUD (Create, Read, Update, Delete) operations on their posts.
+- **Connectivity:** The app checks for internet connectivity and displays appropriate messages to the user.
+- **Post Creation:** Users can create posts with a user interface similar to Facebook.
+- **Friend Requests:** Users can search for other users and send friend requests to them.
+- **Language Selection:** Users can change the language of the app.
+- **Theme Selection:** Users can change the theme of the app.
+- **Post Visibility:** Users can choose whether their posts are visible to all users or only to their friends.
+- **State Management:** The app uses the Provider package for state management.
